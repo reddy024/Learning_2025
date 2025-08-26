@@ -1,0 +1,3 @@
+﻿Repo: learning-git-branches
+Owner: Rakesh Kusa
+Purpose: Demo of branches & merges into master
