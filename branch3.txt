@@ -1,0 +1,4 @@
+﻿Branch: branch3
+Feature: inventory-sync
+Notes:
+- Syncs stock levels with vendor feed hourly
