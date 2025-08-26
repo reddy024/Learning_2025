@@ -1,3 +1,27 @@
-﻿Repo: learning-git-branches
-Owner: Rakesh Kusa
-Purpose: Demo of branches & merges into master
+﻿# Learning_2025 – Consolidated Notes
+
+Get-Content branch1.txt
+Get-Content branch2.txt
+Get-Content branch3.txt
+cls
+wefkmlwe
+
+## branch1.txt
+Branch: branch1
+Feature: customer-greeting
+Notes:
+- Adds greeting logic and welcome message
+
+
+## branch2.txt
+Branch: branch2
+Feature: order-processing
+Notes:
+- Handles order creation, validation, and pricing rules
+
+
+## branch3.txt
+Branch: branch3
+Feature: inventory-sync
+Notes:
+- Syncs stock levels with vendor feed hourly
