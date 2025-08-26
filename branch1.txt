@@ -1,4 +1,0 @@
-﻿Branch: branch1
-Feature: customer-greeting
-Notes:
-- Adds greeting logic and welcome message
